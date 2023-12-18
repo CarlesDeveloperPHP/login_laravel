@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>ES LA HOME</h1>
+    <h1>Es la home</h1>
 </body>
 </html>
